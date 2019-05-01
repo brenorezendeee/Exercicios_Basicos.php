@@ -1,0 +1,10 @@
+<?php
+print("Digite a primeira nota:");
+$nota1 = (string) fgets(STDIN);
+
+print("Digite a segunda nota:");
+$nota2 = (string) fgets(STDIN);
+
+
+
+
